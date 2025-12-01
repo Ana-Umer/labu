@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+sqlalchemy
+pydantic
+pydantic-settings
+python-multipart
